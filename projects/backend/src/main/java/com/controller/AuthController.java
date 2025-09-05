@@ -1,7 +1,7 @@
-package backend.estate;
+package com.controller;
 
-import com.estatevault.model.User;
-import com.estatevault.repository.UserRepository;
+import com.models.User;
+import com.repository.UserRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.web.bind.annotation.*;

@@ -1,6 +1,6 @@
-package com.estatevault.repository;
+package com.repository;
 
-import com.estatevault.model.UnlockRequest;
+import com.models.UnlockRequest;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

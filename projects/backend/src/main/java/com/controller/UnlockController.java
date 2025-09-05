@@ -1,7 +1,7 @@
-package com.estatevault.controller;
+package com.controller;
 
-import com.estatevault.model.UnlockRequest;
-import com.estatevault.service.UnlockService;
+import  com.models.UnlockRequest;
+import com.service.UnlockService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;

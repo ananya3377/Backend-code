@@ -1,7 +1,8 @@
-package com.estatevault.model;
+package com.models;
 
 import jakarta.persistence.*;
 import java.time.*;
+import com.models.User;
 
 @Entity
 public class Document {

@@ -1,4 +1,4 @@
-package backend.estate
+package com.models;
 
 import jakarta.persistence.*;
 

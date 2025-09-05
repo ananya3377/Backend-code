@@ -1,7 +1,7 @@
-package com.estatevault.controller;
+package com.controller;
 
-import com.estatevault.model.UnlockRequest;
-import com.estatevault.repository.UnlockRequestRepository;
+import  com.models.UnlockRequest;
+import com.repository.UnlockRequestRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

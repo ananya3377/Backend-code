@@ -1,9 +1,9 @@
-package com.estatevault.service;
+package com.service;
 
-import com.estatevault.model.UnlockRequest;
-import com.estatevault.model.User;
-import com.estatevault.repository.UnlockRequestRepository;
-import com.estatevault.repository.UserRepository;
+import com.models.UnlockRequest;
+import com.models.User;
+import com.repository.UnlockRequestRepository;
+import com.repository.UserRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 

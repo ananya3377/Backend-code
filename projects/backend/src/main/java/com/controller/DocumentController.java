@@ -1,10 +1,10 @@
-package com.estatevault.controller;
+package com.controller;
 
-import com.estatevault.model.Document;
-import com.estatevault.model.User;
-import com.estatevault.repository.DocumentRepository;
-import com.estatevault.repository.UserRepository;
-import com.estatevault.service.StorageService;
+import  com.models.Document;
+import  com.models.User;
+import com.repository.DocumentRepository;
+import com.repository.UserRepository;
+import com.service.StorageService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;

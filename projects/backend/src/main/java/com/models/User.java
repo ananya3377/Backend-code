@@ -1,4 +1,4 @@
-package com.estatevault.model;
+package com.models;
 
 import jakarta.persistence.*;
 import java.util.*;
